@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+  background-color:lightgray;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-top: 150px;
+  padding-bottom: 50px;
+  }
+  
+  .label{
+  display: block;
+  font-size: larger;
+  color: black;
+  padding: 5px;
+  }
+  
+  .input{
+  font-size: larger;
+  padding: 5px;
+  margin: 2px;
+  
+  }
+  .btn{
+  color: white;
+  background-color:blue;
+  border-radius: 5px;
+  font-size: larger;
+  display: block;
+  padding: 5px;
+  margin: 15px auto;
+  margin-top: 20px;
+  }
+  
+  .messages{
+  display: flex;
+  justify-content: center;
+  }
+  
+  .error{
+  display: block;
+  background-color: blue;
+  color: white;
+  width: fit-content;
+  height: 50px;
+  padding: 5px;
+  }
+  
+  .success{
+  display: block;
+  background-color: lightblue;
+  color: black;
+  width: fit-content;
+  height: 50px;
+  padding: 5px;
+  }
+  .form{
+    text-align: center;
+  }
+  input{
+    width: 500px;
+  }
+  h1 {
+    background-color: orange;
+    color: white;
+    text-align: left;
+    padding: 10px;
+}
+p {
+  padding-right: 170px;
+  text-align: right;
+}
